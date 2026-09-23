@@ -1,5 +1,7 @@
 # MANIFEST_IA — Taller 3: RPN híbrido multi-objeto sobre FundidoraPC
 
+**Integrantes:** Annie Sofia Correa, Miguel David Arroyo, Juan Andres Hoyos y Daniela Marin Villacorte.
+
 Trabajamos con Aquarium Combined, con 7 clases más fondo e imágenes de 224 x 224. El modelo final fue el de la época 30: obtuvo un recall de propuestas de 0.742 y un mAP@0.5 de 0.1195.
 
 ## 1. ¿Por qué las propuestas necesitan `.detach()` antes de ROI Align, y qué pasaría si se omite?
